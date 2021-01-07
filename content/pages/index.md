@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: This Is A Big Hero Headline See?
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |+
+      This is super cool and works well. 
+
     actions:
       - label: Try Free
         url: /pricing
