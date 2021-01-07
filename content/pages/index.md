@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: This Is A Big Hero Headline See?
     subtitle: Optional hero section subtitle
-    content: |+
-      This is super cool and works well. 
-
+    content: |
+      # This is super cool and works well.
     actions:
       - label: Try Free
         url: /pricing
